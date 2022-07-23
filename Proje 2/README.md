@@ -1,6 +1,6 @@
 # 2.projede yapılan görselleştirmelere ait ekran görüntüleri
 
-![Proje Görseli](/sshots/proje2_soru1.jpg)
+![Proje Görseli](Proje 2/sshots/proje2_soru1.jpg)
 ![Proje Görseli](/sshots/proje2_soru2_1.jpg)
 ![Proje Görseli](/sshots/proje2_soru2_2.jpg)
 ![Proje Görseli](/sshots/proje2_soru5.jpg)
